@@ -1,9 +1,9 @@
-### RSA Assignment
+# RSA Assignment
 
-# Description
-This assignment was designed to solve the following problem.
+### Description
+This assignment was designed to solve the following problem from Dr Elena Strzheletska
 
-# Problem 1:
+### Problem 1:
 Alice’s RSA public key isP= (e,n) = (13,77).  Bob sends Alice the message by encoding itas follows.  First he assigns numbers to characters:  A is 2, B is 3, ..., Z is 27, and blank is 28.  Then he uses RSA to encode each number separately.
 Bob’s encoded message is:
 
